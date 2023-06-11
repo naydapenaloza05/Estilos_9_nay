@@ -1,0 +1,23 @@
+/*Ejemplo de estilo externo*/
+p {
+    color: yellow;
+    font-size: 20px;
+    font-weight: bold;
+}
+h1 {
+    color: crimson;
+    text-decoration: underline;
+    font-family: 'Ariel';
+}
+
+h2 {
+    color:green;
+}
+p.azul{
+    color:blue;
+}
+span.libre{
+    color:aqua;
+    font-size: 20px;
+    font-family: 'Ariel';
+}
